@@ -1,4 +1,4 @@
-package gb_java_exception.sem1;
+package gb_java_exception.sem1.cw;
 
 public class task2 {
     public static void main(String[] args) {

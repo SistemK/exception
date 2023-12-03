@@ -1,4 +1,4 @@
-package gb_java_exception.sem1;
+package gb_java_exception.sem1.cw;
 
 import java.util.ArrayList;
 import java.util.List;
